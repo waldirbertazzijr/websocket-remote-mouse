@@ -1,0 +1,13 @@
+body, html {
+    font-family: Helvetica, Arial;
+}
+#messages, #pos {
+    margin-top: 100px;
+    color: #fafafa;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+}
+#pos {
+    margin-top: 0;
+}
